@@ -6,4 +6,4 @@
 
 ## ютюб не мой
 
-[MIT](https://www.youtube.com/watch?v=TLNJnxDdnhs))
+[как залить бота на сервер](https://www.youtube.com/watch?v=XoVpmtJV_FU)
