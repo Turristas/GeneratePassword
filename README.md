@@ -2,7 +2,7 @@
 
 Foobar is a Python application for dealing with word pluralization.
 
-## Installation
+## telegram bot
 
 Clone the repository from GitHub. Then create a virtual environment, and install all the dependencies.
 
